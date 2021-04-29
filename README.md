@@ -1,5 +1,5 @@
 # MECH-105-Algorithms-
-This respiratory contains all the algorithms I have created for a numerical methods course, **MECH 105**. 
+This respiratory contains all the algorithms I have created for a numerical methods course, **MECH 105**, that I took my freshman year as a mechanical engineering student at Colorado State University.  
 
 ## Contains
 1. Binary Convertor
