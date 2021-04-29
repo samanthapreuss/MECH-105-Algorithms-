@@ -6,4 +6,4 @@ This repository contains all the algorithms I have created for a numerical metho
 2. False Position: Root Finding Method
 3. LU Factorization with Partial Pivoting
 4. Linear Regression with Residual Error
-5. Simpson's 1/3 Rule 
+5. Simpson's 1/3 Rule: Numerical Integration
